@@ -1,0 +1,1197 @@
+                
+
+  'Women Kurtis',
+  'Sarees',
+  'Women Western',
+  'Half Saree',
+  'kids',
+  'Men Shirts',
+  'Men T-shirt',
+  'Men Pants',
+  'Men Trousers',
+  'Girls Gowns',
+  'Girls Choli',
+  'Girls Chudi',
+  'Girls western',
+  'Boy dress'
+
+  [
+    {
+        "name": "Saree Silk cotton fabulous saree",
+        "price": 1500,
+        "description": "Silk cotton saree - golden and orange",
+        "ratings": 4.5,
+        "images": [
+            {
+                "image": "/images/products/saree/saree.jpg"
+            }
+        ],
+        "category": "Laptops",
+        "seller": "Stylish Diva",
+        "stock": 5,
+        "numOfReviews": 15,
+        "reviews": []
+    },
+    {
+        "name": "Kurti white and black umbrella women",
+        "price": 450,
+        "description": "This elite kurti gives you super and simple look",
+        "ratings": 4.5,
+        "images": [
+            {
+                "image": "/images/products/kurti/kurti1.jpg"
+            }
+        ],
+        "category": "Laptops",
+        "seller": "Stylish Diva",
+        "stock": 9,
+        "numOfReviews": 5,
+        "reviews": []
+    },
+    {
+        "name": "Half Saree Bridal design pink and navy blue",
+        "price": 980,
+        "description": "This elite Half saree suitable for family function and main parties",
+        "ratings": 2,
+        "images": [
+            {
+                "image": "/images/products/halfsaree/halfsaree2.jpg"
+            }
+        ],
+        "category": "Laptops",
+        "seller": "Stylish Diva",
+        "stock": 9,
+        "numOfReviews": 12,
+        "reviews": []
+    },
+    {
+        "name": "Formal shirt gray & rose colour cotton",
+        "price": 550,
+        "description": "Colour : Gray & Rose available, Type : silk cotton",
+        "ratings": 4,
+        "images": [
+          {
+            "image": "/images/products/shirt/shirt1.jpg"
+          },
+          {
+            "image": "/images/products/shirt/shirt2.jpg"
+          }
+        ],
+        "category": "Laptops",
+        "seller": "Stylish Diva",
+        "stock": 9,
+        "numOfReviews": 12,
+        "reviews": []
+      },
+      {
+        "name": "Umbrella Churidar collections",
+        "price": 550,
+        "description": "various colours available",
+        "ratings": 5,
+        "images": [
+          {
+            "image": "/images/products/kurti/kurti113.jpg"
+          },
+          {
+            "image": "/images/products/kurti/kurti114.jpg"
+          },
+          {
+            "image": "/images/products/kurti/kurti115.jpg"
+          },
+          {
+            "image": "/images/products/kurti/kurti116.jpg"
+          }
+        ],
+        "category": "Laptops",
+        "seller": "Stylish Diva",
+        "stock": 9,
+        "numOfReviews": 12,
+        "reviews": []
+    },
+    {
+        "name": "Saree soft silk green and white",
+        "price": 600,
+        "description": "Silk cotton saree - green and white",
+        "ratings": 5,
+        "images": [
+            {
+                "image": "/images/products/saree/saree1.jpg"
+            }
+        ],
+        "category": "Laptops",
+        "seller": "Stylish Diva",
+        "stock": 4,
+        "numOfReviews": 20,
+        "reviews": []
+    },
+    {
+      "name": "Half Saree cotton cement and maroon colour",
+      "price": 800,
+      "description": " cotton half saree - cement and maroon",
+      "ratings": 4,
+      "images": [
+          {
+              "image": "/images/products/halfsaree/halfsaree1.webp"
+          }
+      ],
+      "category": "Laptops",
+      "seller": "Stylish Diva",
+      "stock": 5,
+      "numOfReviews": 15,
+      "reviews": []
+  },
+  {
+    "name": "Half Saree colourful design pink and blue",
+    "price": 1080,
+    "description": "This elite Half saree suitable for family function and main parties",
+    "ratings": 4,
+    "images": [
+        {
+            "image": "/images/products/halfsaree/halfsaree4.jpg"
+        }
+    ],
+    "category": "Laptops",
+    "seller": "Stylish Diva",
+    "stock": 9,
+    "numOfReviews": 12,
+    "reviews": []
+},
+{
+  "name": "Half Saree Bridal design pink and blue",
+  "price": 1500,
+  "description": "This elite Half saree suitable for family function and main parties",
+  "ratings": 4.5,
+  "images": [
+      {
+          "image": "/images/products/halfsaree/halfsaree5.jpg"
+      }
+  ],
+  "category": "Laptops",
+  "seller": "Stylish Diva",
+  "stock": 9,
+  "numOfReviews": 12,
+  "reviews": []
+},
+{
+  "name": "Half Saree cotton green and blue",
+  "price": 980,
+  "description": "Colour : green & Blue available, Type : cotton",
+  "ratings": 3.5,
+  "images": [
+      {
+          "image": "/images/products/halfsaree/halfsaree6.jpg"
+      }
+  ],
+  "category": "Laptops",
+  "seller": "Stylish Diva",
+  "stock": 9,
+  "numOfReviews": 12,
+  "reviews": []
+},
+{
+  "name": "Half Saree cotton green and blue",
+  "price": 1500,
+  "description": "Colour : green & Blue available, Type : cotton",
+  "ratings": 4,
+  "images": [
+      {
+          "image": "/images/products/halfsaree/halfsaree8.jpg"
+      }
+  ],
+  "category": "Laptops",
+  "seller": "Stylish Diva",
+  "stock": 9,
+  "numOfReviews": 12,
+  "reviews": []
+},
+{
+  "name": "Half Saree Bridal design yellow and rose ",
+  "price": 1800,
+  "description": "Colour : Yellow & Rose available, Type : synthetic",
+  "ratings": 4.8,
+  "images": [
+      {
+          "image": "/images/products/halfsaree/halfsaree9.jpg"
+      }
+  ],
+  "category": "Laptops",
+  "seller": "Stylish Diva",
+  "stock": 9,
+  "numOfReviews": 12,
+  "reviews": []
+},
+{
+  "name": "Half Saree simple cotton brown and red blue",
+  "price": 600,
+  "description": "Colour : Brown & Red available, Type : cotton",
+  "ratings": 3,
+  "images": [
+      {
+          "image": "/images/products/halfsaree/halfsaree13.jpg"
+      }
+  ],
+  "category": "Laptops",
+  "seller": "Stylish Diva",
+  "stock": 9,
+  "numOfReviews": 12,
+  "reviews": []
+},
+{
+  "name": "Half Saree silk white and red blue",
+  "price": 1300,
+  "description": "Colour : white & red available, Type : silk cotton",
+  "ratings": 4,
+  "images": [
+      {
+          "image": "/images/products/halfsaree/halfsaree15.jpg"
+      }
+  ],
+  "category": "Laptops",
+  "seller": "Stylish Diva",
+  "stock": 9,
+  "numOfReviews": 12,
+  "reviews": []
+},
+{
+  "name": "Half Saree cotton green and purple",
+  "price": 1300,
+  "description": "Colour : green & purple available, Type : cotton",
+  "ratings": 4,
+  "images": [
+      {
+          "image": "/images/products/halfsaree/halfsaree16.jpg"
+      }
+  ],
+  "category": "Laptops",
+  "seller": "Stylish Diva",
+  "stock": 9,
+  "numOfReviews": 12,
+  "reviews": []
+},
+{
+  "name": "Gowns for kids green super elite",
+  "price": 500,
+  "description": "Colour : green available, Type : silk",
+  "ratings": 4,
+  "images": [
+      {
+          "image": "/images/products/kids/baby1.jpg"
+      }
+  ],
+  "category": "Laptops",
+  "seller": "Stylish Diva",
+  "stock": 9,
+  "numOfReviews": 12,
+  "reviews": []
+},
+{
+  "name": "Kids male green and golden salwar ",
+  "price": 800,
+  "description": "Colour : green abd golden available, Type : silk",
+  "ratings": 4.5,
+  "images": [
+      {
+          "image": "/images/products/kids/boy1.jpg"
+      }
+  ],
+  "category": "Laptops",
+  "seller": "Stylish Diva",
+  "stock": 9,
+  "numOfReviews": 12,
+  "reviews": []
+},
+{
+  "name": "Gowns for kids cotton checked design black",
+  "price": 300,
+  "description": "Colour : black available, Type : cotton",
+  "ratings": 4,
+  "images": [
+      {
+          "image": "/images/products/kids/kids.jpg"
+      }
+  ],
+  "category": "Laptops",
+  "seller": "Stylish Diva",
+  "stock": 9,
+  "numOfReviews": 12,
+  "reviews": []
+},
+{
+  "name": "Gowns for kids black ",
+  "price": 200,
+  "description": "Colour : black available, Type : cotton",
+  "ratings": 4.6,
+  "images": [
+      {
+          "image": "/images/products/kids/kids1.jpg"
+      }
+  ],
+  "category": "Laptops",
+  "seller": "Stylish Diva",
+  "stock": 9,
+  "numOfReviews": 12,
+  "reviews": []
+},
+{
+  "name": "Gowns for kids transparent white and blue Elite design",
+  "price": 500,
+  "description": "Colour : angle white available",
+  "ratings": 5,
+  "images": [
+      {
+          "image": "/images/products/kids/kids2.jpg"
+      }
+  ],
+  "category": "Laptops",
+  "seller": "Stylish Diva",
+  "stock": 9,
+  "numOfReviews": 12,
+  "reviews": []
+},
+{
+  "name": "Half Saree elite bridal design blue and golden",
+  "price": 1300,
+  "description": "Colour : blue & golden available, Type : silk",
+  "ratings": 4.7,
+  "images": [
+      {
+          "image": "/images/products/halfsaree/halfsaree.jpg"
+      }
+  ],
+  "category": "Laptops",
+  "seller": "Stylish Diva",
+  "stock": 9,
+  "numOfReviews": 12,
+  "reviews": []
+},
+{
+  "name": "Gowns for girls western wear",
+  "price": 800,
+  "description": "Colour : green available, Type : netted",
+  "ratings": 4,
+  "images": [
+      {
+          "image": "/images/products/girlswestern/girl.jpg"
+      }
+  ],
+  "category": "Laptops",
+  "seller": "Stylish Diva",
+  "stock": 9,
+  "numOfReviews": 12,
+  "reviews": []
+},
+{
+  "name": "Gowns for girls western wear",
+  "price": 800,
+  "description": "Colour : black, sandal and white checked available, Type : soft silk",
+  "ratings": 4,
+  "images": [
+      {
+          "image": "/images/products/girlswestern/girlswestern1.jpg"
+      }
+  ],
+  "category": "Laptops",
+  "seller": "Stylish Diva",
+  "stock": 9,
+  "numOfReviews": 12,
+  "reviews": []
+},
+{
+  "name": "Gowns for girls western wear",
+  "price": 400,
+  "description": "Colour : black available, Type : soft silk",
+  "ratings": 4.3,
+  "images": [
+      {
+          "image": "/images/products/girlswestern/girlswestern2.jpg"
+      }
+  ],
+  "category": "Laptops",
+  "seller": "Stylish Diva",
+  "stock": 9,
+  "numOfReviews": 12,
+  "reviews": []
+},
+{
+  "name": "girls western wear",
+  "price": 800,
+  "description": "Colour : green available, Type : netted",
+  "ratings": 4.2,
+  "images": [
+      {
+          "image": "/images/products/girlswestern/girlswestern3.jpg"
+      }
+  ],
+  "category": "Laptops",
+  "seller": "Stylish Diva",
+  "stock": 9,
+  "numOfReviews": 12,
+  "reviews": []
+},
+{
+  "name": "Girls western wear rose top and white pant",
+  "price": 700,
+  "description": "Colour : rose and white available, Type : netted",
+  "ratings": 4.1,
+  "images": [
+      {
+          "image": "/images/products/girlswestern/girlswestern4.jpg"
+      }
+  ],
+  "category": "Laptops",
+  "seller": "Stylish Diva",
+  "stock": 9,
+  "numOfReviews": 12,
+  "reviews": []
+},
+{
+  "name": "Formal shirt black colour cotton",
+  "price": 550,
+  "description": "Colour : black available, Type : cotton",
+  "ratings": 4.3,
+  "images": [
+    {
+      "image": "/images/products/shirt/shirt4.jpg"
+    }
+  ],
+  "category": "Laptops",
+  "seller": "Stylish Diva",
+  "stock": 6,
+  "numOfReviews": 12,
+  "reviews": []
+},
+{
+  "name": "Formal shirt white colour cotton",
+  "price": 550,
+  "description": "Colour : white available, Type : cotton",
+  "ratings": 4.3,
+  "images": [
+    {
+      "image": "/images/products/shirt/shirt3.jpg"
+    }
+  ],
+  "category": "Laptops",
+  "seller": "Stylish Diva",
+  "stock": 6,
+  "numOfReviews": 12,
+  "reviews": []
+},
+{
+  "name": "Formal shirt navy blue colour cotton",
+  "price": 550,
+  "description": "Colour : Navy blue available, Type : silk cotton",
+  "ratings": 4.1,
+  "images": [
+    {
+      "image": "/images/products/shirt/shirt5.jpg"
+    }
+  ],
+  "category": "Laptops",
+  "seller": "Stylish Diva",
+  "stock": 9,
+  "numOfReviews": 12,
+  "reviews": []
+},
+{
+  "name": " Shirts various colour offer cotton",
+  "price": 550,
+  "description": "Colour : white, rose, green & blue available, Type : cotton",
+  "ratings": 4.1,
+  "images": [
+    {
+      "image": "/images/products/shirt/shirt6.jpg"
+    }
+  ],
+  "category": "Laptops",
+  "seller": "Stylish Diva",
+  "stock": 9,
+  "numOfReviews": 12,
+  "reviews": []
+},
+{
+  "name": "Formal shirt dark green colour cotton",
+  "price": 560,
+  "description": "Colour : Dark Green available, Type :cotton",
+  "ratings": 4.2,
+  "images": [
+    {
+      "image": "/images/products/shirt/shirt7.jpg"
+    },
+    {
+      "image": "/images/products/shirt/shirt71.jpg"
+    }
+  ],
+  "category": "Laptops",
+  "seller": "Stylish Diva",
+  "stock": 9,
+  "numOfReviews": 12,
+  "reviews": []
+},
+{
+  "name": " Formal Shirts black colour cotton",
+  "price": 550,
+  "description": "Colour : black available, Type : cotton",
+  "ratings": 4.5,
+  "images": [
+    {
+      "image": "/images/products/shirt/shirt8.jpg"
+    }
+  ],
+  "category": "Laptops",
+  "seller": "Stylish Diva",
+  "stock": 9,
+  "numOfReviews": 12,
+  "reviews": []
+},
+{
+  "name": " Formal Shirts Navy blue colour cotton",
+  "price": 590,
+  "description": "Colour : Navy blue available, Type : cotton",
+  "ratings": 4.5,
+  "images": [
+    {
+      "image": "/images/products/shirt/shirt9.jpg"
+    }
+  ],
+  "category": "Laptops",
+  "seller": "Stylish Diva",
+  "stock": 9,
+  "numOfReviews": 12,
+  "reviews": []
+},
+{
+  "name": " Formal Shirts sky blue colour cotton",
+  "price": 550,
+  "description": "Colour : Sky blue available, Type : cotton",
+  "ratings": 4.8,
+  "images": [
+    {
+      "image": "/images/products/shirt/shirt10.jpg"
+    }
+  ],
+  "category": "Laptops",
+  "seller": "Stylish Diva",
+  "stock": 9,
+  "numOfReviews": 12,
+  "reviews": []
+},
+{
+  "name": " Formal Shirts stylish rose colour cotton",
+  "price": 550,
+  "description": "Colour : rose available, Type : cotton",
+  "ratings": 4.5,
+  "images": [
+    {
+      "image": "/images/products/shirt/shirt12.jpg"
+    }
+  ],
+  "category": "Laptops",
+  "seller": "Stylish Diva",
+  "stock": 9,
+  "numOfReviews": 12,
+  "reviews": []
+},
+{
+  "name": " Formal Shirts purple colour cotton",
+  "price": 550,
+  "description": "Colour : purple available, Type : cotton",
+  "ratings": 4.3,
+  "images": [
+    {
+      "image": "/images/products/shirt/shirt13.jpg"
+    }
+  ],
+  "category": "Laptops",
+  "seller": "Stylish Diva",
+  "stock": 9,
+  "numOfReviews": 12,
+  "reviews": []
+},
+{
+  "name": " Formal Shirts sky blue colour cotton",
+  "price": 600,
+  "description": "Colour : sky blue available, Type : cotton",
+  "ratings": 4.5,
+  "images": [
+    {
+      "image": "/images/products/shirt/shirt14.jpg"
+    }
+  ],
+  "category": "Laptops",
+  "seller": "Stylish Diva",
+  "stock": 9,
+  "numOfReviews": 12,
+  "reviews": []
+},
+{
+  "name": " Casual Shirts black and gray checked colour cotton",
+  "price": 540,
+  "description": "Colour : black and gray available, Type : cotton",
+  "ratings": 4,
+  "images": [
+    {
+      "image": "/images/products/shirt/shirt15.jpg"
+    }
+  ],
+  "category": "Laptops",
+  "seller": "Stylish Diva",
+  "stock": 9,
+  "numOfReviews": 12,
+  "reviews": []
+},
+{
+  "name": " Formal Shirts white, rose and blue colour cotton",
+  "price": 900,
+  "description": "Colour : white, rose, green & blue available, Type : cotton",
+  "ratings": 4.5,
+  "images": [
+    {
+      "image": "/images/products/shirt/shirt16.jpg"
+    }
+  ],
+  "category": "Laptops",
+  "seller": "Stylish Diva",
+  "stock": 9,
+  "numOfReviews": 12,
+  "reviews": []
+},
+{
+  "name": " Formal & Casual offer  Shirts white cotton",
+  "price": 1500,
+  "description": "Colour : white, rose, green & blue available, Type : cotton",
+  "ratings": 4.2,
+  "images": [
+    {
+      "image": "/images/products/shirt/shirt17.jpg"
+    }
+  ],
+  "category": "Laptops",
+  "seller": "Stylish Diva",
+  "stock": 9,
+  "numOfReviews": 12,
+  "reviews": []
+},
+{
+  "name": " T-Shirts Navy blue colour cotton",
+  "price": 300,
+  "description": "Colour : Navy blue available",
+  "ratings": 4.9,
+  "images": [
+    {
+      "image": "/images/products/t-shirt/t-shirt.jpg"
+    }
+  ],
+  "category": "Laptops",
+  "seller": "Stylish Diva",
+  "stock": 19,
+  "numOfReviews": 12,
+  "reviews": []
+},
+{
+  "name": " Women Western wear gown green",
+  "price": 800,
+  "description": "Colour : green available, Type : netted",
+  "ratings": 4.5,
+  "images": [
+    {
+      "image": "/images/products/westernwear/western.jpg"
+    }
+  ],
+  "category": "Laptops",
+  "seller": "Stylish Diva",
+  "stock": 9,
+  "numOfReviews": 12,
+  "reviews": []
+},
+{
+  "name": " Women Western wear super elite gown sandal",
+  "price": 1200,
+  "description": "Colour : sandal available, Type : netted",
+  "ratings": 4.9,
+  "images": [
+    {
+      "image": "/images/products/westernwear/western1.jpg"
+    }
+  ],
+  "category": "Laptops",
+  "seller": "Stylish Diva",
+  "stock": 9,
+  "numOfReviews": 12,
+  "reviews": []
+},
+{
+  "name": "Kurti blue green shade umbrella women",
+  "price": 1000,
+  "description": "Colour : blue green shade available",
+  "ratings": 5,
+  "images": [
+      {
+          "image": "/images/products/kurti/kurti2.jpg"
+      }
+  ],
+  "category": "Laptops",
+  "seller": "Stylish Diva",
+  "stock": 9,
+  "numOfReviews": 5,
+  "reviews": []
+},
+{
+  "name": "Kurti black umbrella churidar women",
+  "price": 600,
+  "description": "Colour : black available",
+  "ratings": 5,
+  "images": [
+      {
+          "image": "/images/products/kurti/kurti3.jpg"
+      }
+  ],
+  "category": "Laptops",
+  "seller": "Stylish Diva",
+  "stock": 9,
+  "numOfReviews": 5,
+  "reviews": []
+},
+{
+  "name": "Kurti navy blue umbrella churidar women",
+  "price": 500,
+  "description": "Colour : Navy blue available, Type : cotton",
+  "ratings": 4.6,
+  "images": [
+      {
+          "image": "/images/products/kurti/kurti4.jpg"
+      }
+  ],
+  "category": "Laptops",
+  "seller": "Stylish Diva",
+  "stock": 9,
+  "numOfReviews": 5,
+  "reviews": []
+},
+{
+  "name": "Kurti black umbrella churidar women",
+  "price": 900,
+  "description": "Colour : black and gray available, Type : cotton",
+  "ratings": 4.6,
+  "images": [
+      {
+          "image": "/images/products/kurti/kurti5.jpg"
+      }
+  ],
+  "category": "Laptops",
+  "seller": "Stylish Diva",
+  "stock": 9,
+  "numOfReviews": 5,
+  "reviews": []
+},
+{
+  "name": "Kurti full white umbrella churidar women",
+  "price": 1000,
+  "description": "Colour : full white available, Type : netted",
+  "ratings": 4.6,
+  "images": [
+      {
+          "image": "/images/products/kurti/kurti6.jpg"
+      }
+  ],
+  "category": "Laptops",
+  "seller": "Stylish Diva",
+  "stock": 9,
+  "numOfReviews": 5,
+  "reviews": []
+},
+{
+  "name": "Kurti lavender churidar women",
+  "price": 800,
+  "description": "Colour : lavender available, Type : netted",
+  "ratings": 4.9,
+  "images": [
+      {
+          "image": "/images/products/kurti/kurti7.jpg"
+      }
+  ],
+  "category": "Laptops",
+  "seller": "Stylish Diva",
+  "stock": 9,
+  "numOfReviews": 5,
+  "reviews": []
+},
+{
+  "name": "Kurti navy blue & golden umbrella churidar women",
+  "price": 900,
+  "description": "Colour : Navy blue & golden available, Type : netted",
+  "ratings": 4.6,
+  "images": [
+      {
+          "image": "/images/products/kurti/kurti8.jpg"
+      }
+  ],
+  "category": "Laptops",
+  "seller": "Stylish Diva",
+  "stock": 9,
+  "numOfReviews": 5,
+  "reviews": []
+},
+{
+  "name": "Kurti rose & grey umbrella churidar women",
+  "price": 1200,
+  "description": "Colour : rose & grey available, Type : netted",
+  "ratings": 4.9,
+  "images": [
+      {
+          "image": "/images/products/kurti/kurti10.jpg"
+      }
+  ],
+  "category": "Laptops",
+  "seller": "Stylish Diva",
+  "stock": 9,
+  "numOfReviews": 5,
+  "reviews": []
+},
+{
+  "name": "Kurti orange & red umbrella churidar women",
+  "price": 900,
+  "description": "Colour : orange & red available, Type : soft silk ",
+  "ratings": 4.6,
+  "images": [
+      {
+          "image": "/images/products/kurti/kurti11.jpg"
+      }
+  ],
+  "category": "Laptops",
+  "seller": "Stylish Diva",
+  "stock": 9,
+  "numOfReviews": 5,
+  "reviews": []
+},
+{
+  "name": "Kurti dark blue & silver  umbrella churidar women",
+  "price": 600,
+  "description": "Colour : Dark blue & Silver available, Type : soft silk ",
+  "ratings": 4.6,
+  "images": [
+      {
+          "image": "/images/products/kurti/kurti12.jpg"
+      }
+  ],
+  "category": "Laptops",
+  "seller": "Stylish Diva",
+  "stock": 9,
+  "numOfReviews": 5,
+  "reviews": []
+},
+{
+  "name": "Kurti top & coat model blue umbrella churidar women",
+  "price": 800,
+  "description": "Colour : blue & red available, Type : cotton",
+  "ratings": 4.6,
+  "images": [
+      {
+          "image": "/images/products/kurti/kurti13.jpg"
+      },
+      {
+        "image": "/images/products/kurti/kurti131.jpg"
+    },
+    {
+      "image": "/images/products/kurti/kurti132.jpg"
+  }
+  ],
+  "category": "Laptops",
+  "seller": "Stylish Diva",
+  "stock": 9,
+  "numOfReviews": 5,
+  "reviews": []
+},
+{
+  "name": "Kurti full green umbrella churidar women",
+  "price": 400,
+  "description": "Colour : Green & Black available, Type : soft silk ",
+  "ratings": 4.2,
+  "images": [
+      {
+          "image": "/images/products/kurti/kurti102.jpg"
+      },
+      {
+        "image": "/images/products/kurti/kurti103.webp"
+    }
+  ],
+  "category": "Laptops",
+  "seller": "Stylish Diva",
+  "stock": 9,
+  "numOfReviews": 5,
+  "reviews": []
+},
+{
+  "name": "Kurti black & red umbrella churidar women",
+  "price": 600,
+  "description": "Colour : black & red available, Type : cotton ",
+  "ratings": 4.9,
+  "images": [
+      {
+          "image": "/images/products/kurti/kurti121.jpg"
+      }
+  ],
+  "category": "Laptops",
+  "seller": "Stylish Diva",
+  "stock": 9,
+  "numOfReviews": 5,
+  "reviews": []
+},
+{
+  "name": "Kurti white & pink umbrella churidar women",
+  "price": 900,
+  "description": "Colour : white & pink available, Type : silk ",
+  "ratings": 4.9,
+  "images": [
+      {
+          "image": "/images/products/kurti/kurti142.webp"
+      }
+  ],
+  "category": "Laptops",
+  "seller": "Stylish Diva",
+  "stock": 9,
+  "numOfReviews": 5,
+  "reviews": []
+},
+{
+  "name": "Kurti dark green umbrella churidar women",
+  "price": 600,
+  "description": "Colour : dark green available, Type : cotton ",
+  "ratings": 4.9,
+  "images": [
+      {
+          "image": "/images/products/kurti/kurti1221.jpg"
+      }
+  ],
+  "category": "Laptops",
+  "seller": "Stylish Diva",
+  "stock": 9,
+  "numOfReviews": 5,
+  "reviews": []
+},
+{
+  "name": "Saree cotton sky blue fabulous saree",
+  "price": 1500,
+  "description": "Cotton saree - sky blue",
+  "ratings": 4.5,
+  "images": [
+      {
+          "image": "/images/products/saree/saree2.jpg"
+      },
+      {
+        "image": "/images/products/saree/saree21.jpg"
+    }
+  ],
+  "category": "Laptops",
+  "seller": "Stylish Diva",
+  "stock": 5,
+  "numOfReviews": 15,
+  "reviews": []
+},
+{
+  "name": "Saree soft cotton full white kerala model fabulous saree",
+  "price": 1200,
+  "description": "Soft Cotton saree - Full white",
+  "ratings": 4.8,
+  "images": [
+      {
+          "image": "/images/products/saree/saree3.jpg"
+      }
+  ],
+  "category": "Laptops",
+  "seller": "Stylish Diva",
+  "stock": 5,
+  "numOfReviews": 15,
+  "reviews": []
+},
+{
+  "name": "Saree cotton off white kerala model fabulous saree",
+  "price": 1200,
+  "description": "Cotton saree - off white",
+  "ratings": 4.5,
+  "images": [
+      {
+          "image": "/images/products/saree/saree4.jpg"
+      }
+  ],
+  "category": "Laptops",
+  "seller": "Stylish Diva",
+  "stock": 5,
+  "numOfReviews": 15,
+  "reviews": []
+},
+{
+  "name": "Saree cotton sky blue fabulous saree",
+  "price": 1300,
+  "description": "Cotton saree - sky blue",
+  "ratings": 4.8,
+  "images": [
+      {
+          "image": "/images/products/saree/saree5.jpg"
+      }
+  ],
+  "category": "Laptops",
+  "seller": "Stylish Diva",
+  "stock": 5,
+  "numOfReviews": 15,
+  "reviews": []
+},
+{
+  "name": "Saree cotton purple fabulous saree",
+  "price": 800,
+  "description": "Cotton saree - purple ",
+  "ratings": 4.5,
+  "images": [
+      {
+          "image": "/images/products/saree/saree6.jpg"
+      }
+  ],
+  "category": "Laptops",
+  "seller": "Stylish Diva",
+  "stock": 5,
+  "numOfReviews": 15,
+  "reviews": []
+},
+{
+  "name": "Saree cotton off red fabulous saree",
+  "price": 900,
+  "description": "Cotton saree - off red",
+  "ratings": 5,
+  "images": [
+      {
+          "image": "/images/products/saree/saree7.jpg"
+      }
+  ],
+  "category": "Laptops",
+  "seller": "Stylish Diva",
+  "stock": 5,
+  "numOfReviews": 15,
+  "reviews": []
+},
+{
+  "name": "Saree silk golden plain  fabulous saree",
+  "price": 2000,
+  "description": "Cotton saree -  Sandal",
+  "ratings": 4.7,
+  "images": [
+      {
+          "image": "/images/products/saree/saree10.jpg"
+      }
+  ],
+  "category": "Laptops",
+  "seller": "Stylish Diva",
+  "stock": 5,
+  "numOfReviews": 15,
+  "reviews": []
+},
+{
+  "name": "Saree silk and netted dark blue fabulous saree",
+  "price": 1500,
+  "description": "Cotton saree - dark blue",
+  "ratings": 4.8,
+  "images": [
+      {
+          "image": "/images/products/saree/saree11.jpg"
+      }
+  ],
+  "category": "Laptops",
+  "seller": "Stylish Diva",
+  "stock": 5,
+  "numOfReviews": 15,
+  "reviews": []
+},
+{
+  "name": "Saree cotton blue and silver fabulous saree",
+  "price": 999,
+  "description": "Cotton saree - Blue and silver",
+  "ratings": 4.5,
+  "images": [
+      {
+          "image": "/images/products/saree/saree12.jpg"
+      }
+  ],
+  "category": "Laptops",
+  "seller": "Stylish Diva",
+  "stock": 5,
+  "numOfReviews": 15,
+  "reviews": []
+},
+
+{
+  "name": "Saree silk plain pink fabulous saree",
+  "price": 800,
+  "description": "Cotton saree - pink, violet, green and purple",
+  "ratings": 4.5,
+  "images": [
+      {
+          "image": "/images/products/saree/saree31.webp"
+      },
+      {
+        "image": "/images/products/saree/saree32.webp"
+    },
+    {
+      "image": "/images/products/saree/saree33.webp"
+  }
+  ],
+  "category": "Laptops",
+  "seller": "Stylish Diva",
+  "stock": 5,
+  "numOfReviews": 15,
+  "reviews": []
+},
+{
+  "name": "Saree silk plain pink fabulous saree",
+  "price": 1200,
+  "description": "Cotton saree - dark blue,yellow,red,pink, violet, green and purple",
+  "ratings": 4.5,
+  "images": [
+      {
+          "image": "/images/products/saree/saree41.jpg"
+      },
+      {
+        "image": "/images/products/saree/saree42.jpg"
+    },
+    {
+      "image": "/images/products/saree/saree43.jpg"
+  },
+  {
+    "image": "/images/products/saree/saree44.jpg"
+},
+{
+  "image": "/images/products/saree/saree45.jpg"
+},
+{
+  "image": "/images/products/saree/saree46.jpg"
+}
+  ],
+  "category": "Laptops",
+  "seller": "Stylish Diva",
+  "stock": 5,
+  "numOfReviews": 15,
+  "reviews": []
+},
+{
+  "name": "Saree silk light green fabulous saree",
+  "price": 1500,
+  "description": "Colour : green available, Type : netted",
+  "ratings": 4,
+  "images": [
+      {
+          "image": "/images/products/saree/saree51.jpg"
+      }
+  ],
+  "category": "Laptops",
+  "seller": "Stylish Diva",
+  "stock": 5,
+  "numOfReviews": 15,
+  "reviews": []
+}
+
+
+
+
+
+
+  
+  
+   
+]
